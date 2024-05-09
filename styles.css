@@ -176,6 +176,11 @@ section {
     margin: auto 0;
 }
 
+#profile-pic {
+    border-radius: 50%;
+    overflow: hidden;
+}
+
 .section__text {
     align-self: center;
     text-align: center;
@@ -271,7 +276,6 @@ section {
 }
 
 .about-details-container {
-    justify-content: center;
     flex-direction: column;
 }
 
